@@ -1,6 +1,6 @@
 <?php
 
-namespace ipinfo\ipinfolaravel\iphandler;
+namespace zilorent\ipinfolaravel\iphandler;
 
 /**
  * Selects originating client IP from the request.
