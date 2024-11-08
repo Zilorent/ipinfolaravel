@@ -1,6 +1,6 @@
 <?php
 
-namespace ipinfo\ipinfolaravel\Facades;
+namespace zilorent\ipinfolaravel\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
