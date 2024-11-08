@@ -1,6 +1,6 @@
 <?php
 
-namespace ipinfo\ipinfolaravel\iphandler;
+namespace zilorent\ipinfolaravel\iphandler;
 
 /**
  * Interface for handling the mechanism of IP retrieval.
