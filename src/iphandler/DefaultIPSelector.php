@@ -1,6 +1,6 @@
 <?php
 
-namespace ipinfo\ipinfolaravel\iphandler;
+namespace zilorent\ipinfolaravel\iphandler;
 
 /**
  * Implementation of the IPHandlerInterface used as default option. Retrieve IP from request.
