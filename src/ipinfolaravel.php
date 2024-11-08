@@ -1,11 +1,11 @@
 <?php
 
-namespace ipinfo\ipinfolaravel;
+namespace zilorent\ipinfolaravel;
 
 use Closure;
-use ipinfo\ipinfo\IPinfo as IPinfoClient;
-use ipinfo\ipinfolaravel\DefaultCache;
-use ipinfo\ipinfolaravel\iphandler\DefaultIPSelector;
+use zilorent\ipinfo\IPinfo as IPinfoClient;
+use zilorent\ipinfolaravel\DefaultCache;
+use zilorent\ipinfolaravel\iphandler\DefaultIPSelector;
 
 class ipinfolaravel
 {
