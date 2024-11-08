@@ -1,6 +1,6 @@
 <?php
 
-namespace ipinfo\ipinfolaravel;
+namespace zilorent\ipinfolaravel;
 
 use Illuminate\Support\ServiceProvider;
 
