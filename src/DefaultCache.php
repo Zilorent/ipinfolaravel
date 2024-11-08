@@ -1,9 +1,9 @@
 <?php
 
-namespace ipinfo\ipinfolaravel;
+namespace zilorent\ipinfolaravel;
 
 use Illuminate\Support\Facades\Cache;
-use ipinfo\ipinfo\cache\CacheInterface;
+use zilorent\ipinfo\cache\CacheInterface;
 
 /**
  * Default implementation of the CacheInterface. Provides in-memory caching.
